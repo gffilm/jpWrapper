@@ -1,0 +1,8 @@
+.center {
+  text-align: center;
+  width:100%;
+}
+
+#loggerContainer > input {
+    width: 50%;
+}

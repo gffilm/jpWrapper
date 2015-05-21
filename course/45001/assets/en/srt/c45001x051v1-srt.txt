@@ -1,0 +1,40 @@
+1
+00:00:00,300 --> 00:00:02,300
+This… is our boss Tom.
+
+2
+00:00:02,667 --> 00:00:04,801
+His little sister Helen often pops by.
+
+3
+00:00:05,267 --> 00:00:07,734
+That’s J.J, our top-notch project manager.
+
+4
+00:00:08,367 --> 00:00:10,734
+Our receptionist, Mary, helps out where she can.
+
+5
+00:00:11,434 --> 00:00:14,501
+Sometimes we work with Marit, a rep for a long-time vendor.
+
+6
+00:00:15,100 --> 00:00:16,400
+Terry’s our marketing director.
+
+7
+00:00:16,567 --> 00:00:21,000
+He and the sales team—Khirash, Kim, and David—
+
+8
+00:00:21,167 --> 00:00:22,367
+keep us competitive,
+
+9
+00:00:22,400 --> 00:00:26,400
+especially when selling against one competitor’s sales rep, Jordan Stone.
+
+10
+00:00:26,934 --> 00:00:29,534
+Oh, and there's Jim—he keeps the mail room running smoothly.
+

@@ -1,0 +1,6 @@
+{
+"springboard": true,
+  "languages": [
+	"en"
+	]
+}
